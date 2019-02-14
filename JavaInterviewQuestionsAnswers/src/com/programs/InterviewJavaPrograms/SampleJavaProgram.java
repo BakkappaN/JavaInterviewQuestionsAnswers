@@ -14,6 +14,7 @@ public class SampleJavaProgram
 		String str="Java Interview Questions";
 		String str2="java Interview Questions";
 		//String str2="Selenium Interview Questions   ";
+		
 		//Concat
 		String concatString=str.concat(str2);
 		System.out.println(concatString);
